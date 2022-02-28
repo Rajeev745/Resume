@@ -1,0 +1,90 @@
+.content-child {
+  height: 105vh;
+  width: 100vw;
+  display: flex;
+}
+
+.input {
+  height: 95vh;
+  width: 35vw;
+  box-shadow: 1px 1px 10px rgb(54, 54, 54);
+  margin-top: 5vh;
+  margin-left: 15vw;
+}
+.show {
+  height: 95vh;
+  width: 30vw;
+  margin: 5vh 5vw;
+  box-shadow: 1px 1px 10px rgb(54, 54, 54);
+}
+.show .img {
+  height: 40vh;
+  width: 30vw;
+}
+.show .tips {
+  height: 55vh;
+  width: 30vw;
+}
+.show .tips .tips-container {
+  height: 55vh;
+  width: 30vw;
+}
+.tips-container .text-center {
+  height: 10vh;
+  width: 30vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.tips-container .list {
+  height: 45vh;
+  width: 30vw;
+}
+.tips-container .list li {
+  height: 15vh;
+  width: 26vw;
+  margin-left: 3vw;
+}
+
+.content-wrapper {
+  height: 95vh;
+  width: 35vw;
+}
+.headline {
+  height: 10vh;
+  width: 35vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+}
+.subheadline {
+  height: 5vh;
+  width: 35vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: lighter;
+  padding-bottom: 4vh;
+}
+.content-wrapper .summary {
+  height: 65vh;
+  width: 35vw;
+}
+.content-wrapper .back {
+  height: 8vh;
+  width: 35vw;
+  margin: 1vh 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+}
+.content-wrapper .summary textarea{
+    margin-left: 2vw;
+}

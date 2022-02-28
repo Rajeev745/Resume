@@ -1,0 +1,48 @@
+.tag{
+    height: 4vh;
+    width: 15vw;
+    color: white;
+    background-color: black;
+    font-weight: 800;
+    font-style: italic;
+    padding-top: 4px;
+    padding-left: 10px;
+}
+.degree{
+    height: 3vh;
+    font-weight: 700;
+    padding-left: 10px;
+    margin-top: 10px;
+
+}
+.cllg{
+    height: 2vh;
+    width: 15vw;
+    font-size: 12px;
+    padding-left: 10px;
+    font-style: italic;
+}
+.date{
+    height: 2vh;
+    width: 15vw;
+    font-size: 12px;
+    padding-left: 10px;
+    font-style: italic;
+}
+.address{
+    height: 2vh;
+    width: 15vw;
+    display: flex;
+}
+.address p{
+    font-size: 12px;
+    padding-left: 10px;
+    font-style: italic;
+}
+.des{
+    height: 2vh;
+    width: 15vw;
+    font-size: 12px;
+    padding-left: 10px;
+    font-style: italic;
+}

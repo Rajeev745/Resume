@@ -1,0 +1,48 @@
+.footer{
+    height: 8vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 1px 1px 10px rgb(54, 54, 54);
+}
+.footer .box{
+    height: 8vh;
+    width: 50vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer .copyright{
+    height: 8vh;
+    width: 30vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer .copyright span{
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(59, 56, 56);
+}
+.footer .logo{
+    height: 8vh;
+    width: 20vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer .logo img{
+    height: 8vh;
+    width: 12vw;
+}
+.footer .box .bo{
+    font-size: 12px;
+    height: 8vh;
+    width: 8vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

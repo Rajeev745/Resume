@@ -1,0 +1,31 @@
+.tag {
+  height: 4vh;
+  width: 15vw;
+  color: white;
+  background-color: tomato;
+  font-weight: 800;
+  font-style: italic;
+  padding-top: 4px;
+  padding-left: 10px;
+}
+.skills-parent {
+  height: 21vh;
+  width: 15vw;
+  display: flex;
+  flex-wrap: wrap;
+}
+.ski {
+  height: 20px;
+  width: fit-content;
+  border-radius: 10px;
+  font-size: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-style: italic;
+  background-color: black;
+  color: white;
+  padding: 2px 5px;
+  margin: 10px 6px;
+  font-weight: 600;
+}

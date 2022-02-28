@@ -1,0 +1,84 @@
+.header {
+  height: 10vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 1px 1px 5px 1px rgb(85, 84, 84);
+}
+.header .logo {
+  height: 10vh;
+  width: 20vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header .logo img{
+    height: 10vh;
+    width: 15vw;
+}
+
+.header .routes {
+  height: 10vh;
+  width: 60vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header .userinfo {
+  height: 10vh;
+  width: 20vw;
+  display: flex;
+}
+.header .userinfo .contact{
+  height: 10vh;
+  width: 10vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header .userinfo .login{
+  height: 10vh;
+  width: 10vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 400;
+}
+.header .routes .route{
+  height: 10vh;
+  width: 6vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header .routes .route:nth-child(3){
+  height: 10vh;
+  width: 8vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header .routes .route:nth-child(7){
+  height: 10vh;
+  width: 3vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.header .routes .rou{
+  height: 10vh;
+  width: 3vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+Link{
+  text-decoration: none;
+  outline: none;
+}
+a{
+  text-decoration: none;
+  color: black;
+}

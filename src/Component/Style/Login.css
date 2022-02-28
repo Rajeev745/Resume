@@ -1,0 +1,71 @@
+.login {
+  height: 60vh;
+  width: 20vw;
+  box-shadow: 1px 1px 10px rgb(54, 54, 54);
+  margin: 15vh 40vw;
+}
+.login-heading {
+  height: 12vh;
+  width: 20vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.username {
+  height: 12vh;
+  width: 20vw;
+}
+.username label {
+  height: 4vh;
+  width: 20vw;
+  padding-left: 10px;
+}
+.username input {
+  height: 4vh;
+  width: 18vw;
+  margin: 10px 10px;
+}
+.userpassword {
+  height: 12vh;
+  width: 20vw;
+}
+.userpassword label {
+  height: 4vh;
+  width: 20vw;
+  margin: 10px 10px;
+}
+.userpassword input {
+  height: 4vh;
+  width: 18vw;
+  margin: 10px 10px;
+}
+.login-button {
+  height: 12vh;
+  width: 20vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login-signup {
+  height: 12vh;
+  width: 20vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login-button button {
+  height: 6vh;
+  width: 18vw;
+  background-color: tomato;
+  outline: none;
+  border: none;
+  color: aliceblue;
+}
+.login-signup button {
+  height: 6vh;
+  width: 18vw;
+  background-color: tomato;
+  outline: none;
+  border: none;
+  color: aliceblue;
+}

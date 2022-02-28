@@ -1,0 +1,44 @@
+.tag{
+    height: 4vh;
+    width: 15vw;
+    color: white;
+    background-color: black;
+    font-weight: 800;
+    font-style: italic;
+    padding-top: 4px;
+    padding-left: 10px;
+}
+.job-title{
+    height: 4vh;
+    width: 15vw;
+    font-size: 25px;
+    padding-left:10px;
+    font-style: italic;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.company{
+    height: 2vh;
+    width: 15vw;
+    padding-left: 12px;
+    font-size: 12px;
+    font-weight: lighter;
+}
+.city{
+    height: 2vh;
+    width: 15vw;
+    padding-left: 12px;
+    font-size: 12px;
+    font-weight: lighter;
+}
+.experience-time{
+   height: 4vh;
+   width: 15vw;
+}
+.experience-time p{
+    height: 2vh;
+    width: 15vw;
+    padding-left: 12px;
+    font-size: 12px;
+    font-weight: lighter;
+}

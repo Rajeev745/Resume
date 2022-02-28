@@ -1,0 +1,134 @@
+.content-child {
+  height: 105vh;
+  width: 100vw;
+  display: flex;
+}
+
+.input {
+  height: 95vh;
+  width: 35vw;
+  box-shadow: 1px 1px 10px rgb(54, 54, 54);
+  margin-top: 5vh;
+  margin-left: 15vw;
+}
+.show {
+  height: 95vh;
+  width: 30vw;
+  margin: 5vh 5vw;
+  box-shadow: 1px 1px 10px rgb(54, 54, 54);
+}
+.show .img {
+  height: 40vh;
+  width: 30vw;
+}
+.show .tips {
+  height: 55vh;
+  width: 30vw;
+}
+.show .tips .tips-container {
+  height: 55vh;
+  width: 30vw;
+}
+.tips-container .text-center {
+  height: 10vh;
+  width: 30vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.tips-container .list {
+  height: 45vh;
+  width: 30vw;
+}
+.tips-container .list li {
+  height: 15vh;
+  width: 26vw;
+  margin-left: 3vw;
+}
+.content-wrapper {
+  height: 95vh;
+  width: 35vw;
+}
+.headline {
+  height: 10vh;
+  width: 35vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+}
+.subheadline {
+  height: 5vh;
+  width: 35vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight:lighter;
+  padding-bottom: 4vh;
+}
+.content-wrapper .name {
+  height: 11.5vh;
+  width: 30vw;
+}
+.content-wrapper .name label {
+  height: 5.5vh;
+  width: 30vw;
+  text-align: center;
+  padding-left: 2vw;
+  font-size: 1.2rem;
+}
+.content-wrapper .name input {
+  height: 5.5vh;
+  width: 31vw;
+  margin: 0.5vh 2vw;
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+}
+.content-wrapper .name:nth-child(8) {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.content-wrapper .name .phone {
+  height: 11.5vh;
+  width: 17.5vw;
+}
+.content-wrapper .name .phone label {
+  height: 5.5vh;
+  width: 15.5vw;
+  text-align: center;
+  margin-left: 2vw;
+  font-size: 1.2rem;
+}
+.content-wrapper .name .phone input {
+  height: 5.5vh;
+  width: 13vw;
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  margin-left: 4.5vw;
+}
+.name button{
+  height: 6vh;
+  width: 31vw;
+  margin-left: 2vw;
+  color: aliceblue;
+  font-weight: 600;
+  font-size: 1.2rem;
+  background-color: tomato;
+  border: none;
+  outline: none;
+}
+.name .back{
+  height: 1.5vh;
+  width: 31vw;
+  text-align: center;
+  padding-top: 1vh;
+}
+
